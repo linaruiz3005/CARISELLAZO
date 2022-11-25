@@ -1,0 +1,38 @@
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ 
+.opciones{
+    text-align: center;
+    margin: 50px 0;
+}
+
+img{
+    width: 300px;
+    display: inline-block;
+    padding: 15px;
+    margin: 20px;
+}
+.opcion:hover{
+    background-color: #FFE2EC;
+    cursor: pointer;
+    border-radius: 0;
+}
+.resultado{
+    text-align: center;
+    font-size: 28px;
+    color: #FF6C9E;
+}
+.ganador{
+    color: #AFFFB7;
+    font-size: 25px;
+}
+.perdedor{
+    color: #FFBCAF;
+    font-size: 25px;
+}
+
+.empate{
+    color:#AFDFFF;
+    font-size: 25px;
+}
